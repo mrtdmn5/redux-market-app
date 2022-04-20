@@ -1,0 +1,25 @@
+.editLinktext{
+    text-decoration:none; 
+    color:hsl(0, 0%, 100%);
+}
+
+
+
+.spaceBetween{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.spaceAround{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+
+.fullWidth{
+    width: 100%;
+    
+
+}
